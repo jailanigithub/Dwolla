@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'DwollaOAuthLib' target in the 'DwollaOAuthLib' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
